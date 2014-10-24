@@ -1,0 +1,1 @@
+Repo containing solutions to various Projec Euler problems (http://projecteuler.net/problems) for algorithm practice.  Implemented in Python. Numbered in accordance with problem.
